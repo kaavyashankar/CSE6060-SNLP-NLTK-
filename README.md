@@ -7,8 +7,7 @@
 	</head>
 	<body>
 		<h1>NLTK</h1>
-		<h2>19MAI0013</h2>
-		<h2>Kaavya Shankar R</h2>
+		<h2>19MAI0013 - Kaavya Shankar R</h2>
 		<nav>
     		<ul> 
 			<li>TASKS:</li></br>
