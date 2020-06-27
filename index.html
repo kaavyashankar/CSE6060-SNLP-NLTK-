@@ -15,7 +15,7 @@
 			<li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/29-05-2020.ipynb">Exploring COCA,Stemming,Lemmatizer,chinese segmentation,Text processing pipeline</a></li></br>
 			<li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/4-06-2020%20%2B%20hw.ipynb">Corpus,Tokenize,Pos Tagging,Identifying stems,</a></li></br>
                         <li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/12-06-2020.ipynb">Lexicons,Text classifier,vectorize and cosine simmilarity</a></li></br>
-  			<li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/REV 2 CHUNKING CLASS..ipynb">Chunking - class</a></li></br>
+  			<li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/REV 2 CHUNKING CLASS.ipynb">Chunking - class</a></li></br>
                         <li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/chunk diagram.docx">Chunk-Diagrammatic representation</a></li></br>
                         <li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/REV 2 CHUNKING.ipynb">Chunking of state union corpus data</a></li></br>
                         <li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/REV 2 SENTIMENT ANALYSIS.ipynb">Sentiment analysis of imdb data</a></li></br>
