@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>NATURAL LANGUAGE PROCESSING LAB WORKS</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<h1>NLTK</h1>
+		<h2>19MAI0013</h2>
+		<h2>Kaavya Shankar R</h2>
+		<nav>
+    		<ul> 
+			<li>TASKS:</li></br>
+			<li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/22-05-2020%20%2BHW.ipynb">Exploring nltk,importing corpus,frequency distribution and conditional fd</a></li></br>
+			<li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/29-05-2020.ipynb">Exploring COCA,Stemming,Lemmatizer,chinese segmentation,Text processing pipeline</a></li></br>
+			<li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/4-06-2020%20%2B%20hw.ipynb">Corpus,Tokenize,Pos Tagging,Identifying stems,</a></li></br>
+                        <li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/12-06-2020.ipynb">Lexicons,Text classifier,vectorize and cosine simmilarity</a></li></br>
+  			<li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/REV 2 CHUNKING-CLASS.ipynb">chunking done in class</a></li></br>
+                        <li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/REV 2 CHUNKING.ipynb">chunking of state union corpus data</a></li></br>
+                        <li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/REV 2 SENTIMENT ANALYSIS.ipynb">Sentiment analysis of imdb data</a></li></br>
+                        <li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/REV 2 WEB SCRAPPING.ipynb">Web scrapping</a></li></br>
+                        <li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/REV 2 EMBEDDING.ipynb">Embedding</a></li></br>
+                        <li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/REV 2 GROUP TASK.ipynb">Group task</a></li></br>
+                        <li><a href="https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/blob/master/REV 2 INDIC NLP FUNCT.ipynb">Functions in regional language data</a></li></br>
+  			
+  			
+  			
+  			
+		</ul>
+		</nav>
+		
+		<footer>
+    		
+		</footer>
+	</body>
+</html>
 
-You can use the [editor on GitHub](https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kaavyashankar/CSE6060-SNLP-NLTK-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
